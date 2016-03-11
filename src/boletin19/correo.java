@@ -19,7 +19,7 @@ public class correo {
         this.contido = contido;
         this.leido = leido;
     }
-
+/*
     public String getContido() {
         return contido;
     }
@@ -27,7 +27,7 @@ public class correo {
     public void setContido(String contido) {
         this.contido = contido;
     }
-
+*/
     public boolean isLeido() {
         return leido;
     }
